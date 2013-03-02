@@ -1,0 +1,7 @@
+﻿## Interface: 40000
+## Title: ButtonFacade: |cfff000f0MaeFlower Skin|r
+## Notes: Buttonfacade skins to match MaeFlower UI.
+## Author: Maevrim
+## Dependencies: ButtonFacade
+
+Skins.lua
